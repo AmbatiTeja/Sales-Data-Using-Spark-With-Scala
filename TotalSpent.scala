@@ -7,7 +7,7 @@ object TotaSpent extends App{
     
   Logger.getLogger("org").setLevel(Level.ERROR)
 
-  val sc = new SparkContext("local[*]","wordcount");
+  val sc = new SparkContext("local[*]","sales");
   
   val input = sc.textFile("C:/Users/Akhil/Desktop/Datasets/customerorders.csv");
   
