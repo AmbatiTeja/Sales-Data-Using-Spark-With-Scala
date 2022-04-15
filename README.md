@@ -1,4 +1,4 @@
-# Sales-Data-Using-PySpark
+# Sales-Data-Using-Spark-with-Scala
 
 
 It's an sales Dataset, The code is written in scala used Framework Spark. It's an good Dataset
